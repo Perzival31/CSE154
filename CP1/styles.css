@@ -1,0 +1,44 @@
+
+/*
+  *** TODO: fill in your header ***
+    Erik Nielsen
+  April 6th, 2022
+  Section AB, Max Bi and Max Beard
+  This file will contain all the formating information. Different fonts for h1 and different colors
+  for different headers.
+*/
+
+/*
+  Note: This body rule set is to get you started
+*/
+body {
+  background-color: papayawhip;
+  font-family: "Helvetica", sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  word-spacing: 4px;
+}
+
+h1 {
+  color: darkviolet;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+h2 {
+  color: lightsteelblue;
+}
+
+main, footer {
+  font-size: x-large;
+}
+
+li > ul {
+  font-style: italic;
+}
+
+img {
+  width: 256px;
+  height: 160px;
+}
